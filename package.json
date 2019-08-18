@@ -1,0 +1,30 @@
+{
+  "name": "antuangrid",
+  "version": "1.0.0",
+  "description": "A simple html grid system",
+  "main": "grid.js",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint yourfile.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoCr/AntuanGrid.git"
+  },
+  "keywords": [
+    "grid",
+    "responsive",
+    "flexbox"
+  ],
+  "author": "Antonio Dimitris Defonte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoCr/AntuanGrid/issues"
+  },
+  "homepage": "https://github.com/AntoCr/AntuanGrid#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
